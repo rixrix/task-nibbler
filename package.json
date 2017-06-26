@@ -1,0 +1,32 @@
+{
+  "name": "task-nibbler",
+  "version": "1.0.0",
+  "description": "Sequentially or concurrently process an array of items, easily. your call.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rixrix/task-nibbler.git"
+  },
+  "keywords": [
+    "task",
+    "queue",
+    "io",
+    "sequence",
+    "concurrency"
+  ],
+  "author": {
+    "name": "Richard Sentino",
+    "email": "richard@mindginative.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rixrix/task-nibbler/issues"
+  },
+  "homepage": "https://github.com/rixrix/task-nibbler#readme",
+  "dependencies": {
+    "async": "^2.5.0"
+  }
+}
