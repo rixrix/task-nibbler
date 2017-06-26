@@ -32,8 +32,6 @@ exports.nibbler = function(tasks, options, callback) {
 
     return new Promise(function(resolve, reject) {
         var queue = async.queue(function(task, next) {
-            console.log('current task: ', task.name);
-
             Promise.resolve(callback(task.name))
             .then(function() {
                 async.setImmediate(next, null);
