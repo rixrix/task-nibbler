@@ -1,6 +1,6 @@
 {
   "name": "task-nibbler",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Sequentially or concurrently process an array of items, easily. your call.",
   "main": "index.js",
   "scripts": {
