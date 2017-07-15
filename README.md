@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.org/rixrix/task-nibbler.svg?branch=master)](https://travis-ci.org/rixrix/task-nibbler)
+[![npm version](https://badge.fury.io/js/task-nibbler.svg)](https://badge.fury.io/js/task-nibbler)
+
 # Task Nibbler
 Sequentially or concurrently process an array of items, easily. your call.
 
